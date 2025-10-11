@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ContactsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8D14B-6DAE-424B-9BF1-AA4FAFE875FB}|..\\ManagerTests\\ManagerTests.csproj|d:\\sw codes\\asp .net core\\contacts manager\\managertests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F590ABA-64A4-40D9-A244-6810D93D6DE3}|..\\Entities\\Entities.csproj|d:\\sw codes\\asp .net core\\contacts manager\\entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8D14B-6DAE-424B-9BF1-AA4FAFE875FB}|..\\ManagerTests\\ManagerTests.csproj|d:\\sw codes\\asp .net core\\contacts manager\\managertests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82284795-3C6A-4F81-ABF0-0AA0AF58216E}|ContactsManager.csproj|d:\\sw codes\\asp .net core\\contacts manager\\contactsmanager\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82284795-3C6A-4F81-ABF0-0AA0AF58216E}|ContactsManager.csproj|solutionrelative:controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SW codes\\ASP .NET CORE\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SW codes\\ASP .NET CORE\\Services\\CountriesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82284795-3C6A-4F81-ABF0-0AA0AF58216E}|ContactsManager.csproj|d:\\sw codes\\asp .net core\\contacts manager\\contactsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82284795-3C6A-4F81-ABF0-0AA0AF58216E}|ContactsManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82284795-3C6A-4F81-ABF0-0AA0AF58216E}|ContactsManager.csproj|d:\\sw codes\\asp .net core\\contacts manager\\contactsmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82284795-3C6A-4F81-ABF0-0AA0AF58216E}|ContactsManager.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonsDbContext.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\Entities\\PersonsDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\PersonsDbContext.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\Entities\\PersonsDbContext.cs",
+              "RelativeToolTip": "..\\Entities\\PersonsDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:42:34.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonServiceTest.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ManagerTests\\PersonServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\ManagerTests\\PersonServiceTest.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ManagerTests\\PersonServiceTest.cs",
+              "RelativeToolTip": "..\\ManagerTests\\PersonServiceTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:42:29.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ManagerTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\ManagerTests\\CountriesServiceTest.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ManagerTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "..\\ManagerTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:42:02.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PersonService.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\Services\\PersonService.cs",
+              "RelativeToolTip": "..\\Services\\PersonService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:40:21.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\CountriesService.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\Services\\CountriesService.cs",
+              "RelativeToolTip": "..\\Services\\CountriesService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:24:42.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ContactsManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ContactsManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T16:55:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ContactsManager\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonsController.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ContactsManager\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:19:57.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ContactsManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\Contacts Manager\\ContactsManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T17:00:08.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

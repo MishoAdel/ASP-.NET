@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|d:\\sw codes\\asp .net core\\modelbindingassignment\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|d:\\sw codes\\asp .net core\\modelbindingassignment\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|solutionrelative:controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|d:\\sw codes\\asp .net core\\modelbindingassignment\\customvalidators\\invoicepricevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|solutionrelative:customvalidators\\invoicepricevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|d:\\sw codes\\asp .net core\\modelbindingassignment\\customvalidators\\orderdatevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|solutionrelative:customvalidators\\orderdatevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|d:\\sw codes\\asp .net core\\modelbindingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|d:\\sw codes\\asp .net core\\modelbindingassignment\\customvalidators\\productsvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|solutionrelative:customvalidators\\productsvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|d:\\sw codes\\asp .net core\\modelbindingassignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826C4D07-F592-4ACD-B441-5A047C6C0C5D}|ModelBindingAssignment.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDateValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\CustomValidators\\OrderDateValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "CustomValidators\\OrderDateValidatorAttribute.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\CustomValidators\\OrderDateValidatorAttribute.cs",
+              "RelativeToolTip": "CustomValidators\\OrderDateValidatorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:17:23.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoicePriceValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "RelativeToolTip": "CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA2wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:53:09.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\CustomValidators\\ProductsValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "CustomValidators\\ProductsValidatorAttribute.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\CustomValidators\\ProductsValidatorAttribute.cs",
+              "RelativeToolTip": "CustomValidators\\ProductsValidatorAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:42:17.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoreController.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:36:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:31:19.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:29:30.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\ModelBindingAssignment\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:27:21.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

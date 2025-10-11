@@ -1,0 +1,2 @@
+wwwroot\scripts\FinnhubScript.js
+wwwroot\StyleSheet.css

@@ -1,0 +1,40 @@
+﻿@Model CityWheather
+
+@{
+    string GetCssClassByFahrenheit(int TemperatureFahrenheit)
+    {
+        return TemperatureFahrenheit switch
+        {
+            (< 44) => "blue-back",
+            (>= 44) and (< 75) => "green-back",
+            (>= 75) => "orange-back"
+        };
+    }
+}
+
+@if (Model != null)
+{
+    <div class="margin-top-200 margin-left">
+        <div class="flex">
+            <div class="box cursor-pointer w-30 @GetCssClassByFahrenheit(Model.TemperatureFahrenheit)">
+                <div class="flex-borderless">
+                    <div class="w-50">
+                        <h2>@Model.CityName</h2>
+                        <h4 class="text-grey">@Model.DateAndTime.ToString("hh:mm tt")</h4>
+                        <h4 class="text-grey">@Model.DateAndTime.ToString("hh:mm tt")</h4>
+                    </div>
+                    <div class="w-50 border-left">
+                        <h1 class="margin-left">@Model.TemperatureFahrenheit <sup class="text-grey">&#8457</sup></h1>
+                    </div>
+                    <div class="text-center">
+                        <a href="~/">Back to Weather Home Page</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <h3>City Code is not valid.</h3>
+}

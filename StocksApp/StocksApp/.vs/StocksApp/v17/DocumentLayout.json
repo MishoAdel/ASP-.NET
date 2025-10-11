@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6AA2FF-3A44-40D2-BEA6-A36B717FDDF1}|..\\Services\\Services.csproj|d:\\sw codes\\asp .net core\\stocksapp\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|d:\\sw codes\\asp .net core\\stocksapp\\stocksapp\\viewcomponents\\selectstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2873D9-7E63-4D56-9E54-F04560C7D917}|StocksApp.csproj|solutionrelative:viewcomponents\\selectstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "TradingOptions.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\TradingOptions.cs",
+              "RelativeToolTip": "TradingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:35:49.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:35:17.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Trade\\Orders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trade\\Orders.cshtml",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Trade\\Orders.cshtml",
+              "RelativeToolTip": "Views\\Trade\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:35:06.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:34:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trade\\Index.cshtml",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "Views\\Trade\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:32:46.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:26:41.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StocksController.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "Controllers\\StocksController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:10:32.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TradeController.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "Controllers\\TradeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:33:24.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\FinnhubService.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\Services\\FinnhubService.cs",
+              "RelativeToolTip": "..\\Services\\FinnhubService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:44:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:52:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Explore.cshtml",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "RelativeDocumentMoniker": "Views\\Stocks\\Explore.cshtml",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "RelativeToolTip": "Views\\Stocks\\Explore.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:58:12.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectStockViewComponent.cs",
+              "DocumentMoniker": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\ViewComponents\\SelectStockViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\SelectStockViewComponent.cs",
+              "ToolTip": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\StocksApp\\ViewComponents\\SelectStockViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\SelectStockViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:29:12.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

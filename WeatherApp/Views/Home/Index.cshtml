@@ -1,0 +1,7 @@
+﻿@model IEnumerable<CityWeather>
+
+
+@foreach (CityWeather city in Model)
+{
+ <partial name="_CityPartial" model ="city" > </partial>  
+}
