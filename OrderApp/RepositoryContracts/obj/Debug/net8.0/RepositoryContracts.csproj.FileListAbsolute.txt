@@ -1,0 +1,16 @@
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.deps.json
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.dll
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.pdb
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\bin\Debug\net8.0\OrdersEntities.dll
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\bin\Debug\net8.0\OrdersEntities.pdb
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.AssemblyInfo.cs
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.sourcelink.json
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\Reposito.28D4BA81.Up2Date
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.dll
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\refint\RepositoryContracts.dll
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.pdb
+D:\SW codes\ASP-.NET\OrderApp\RepositoryContracts\obj\Debug\net8.0\ref\RepositoryContracts.dll

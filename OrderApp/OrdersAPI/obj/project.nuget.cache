@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tnAdzomHgRs=",
+  "dgSpecHash": "V7Jjkbmii5I=",
   "success": true,
-  "projectFilePath": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\OrdersAPI\\OrdersAPI.csproj",
+  "projectFilePath": "D:\\SW codes\\ASP-.NET\\OrderApp\\OrdersAPI\\OrdersAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mesho\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mesho\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

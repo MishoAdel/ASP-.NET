@@ -4728,11 +4728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\OrdersEntities\\OrdersEntities.csproj",
+      "projectUniqueName": "D:\\SW codes\\ASP-.NET\\OrderApp\\OrdersEntities\\OrdersEntities.csproj",
       "projectName": "OrdersEntities",
-      "projectPath": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\OrdersEntities\\OrdersEntities.csproj",
+      "projectPath": "D:\\SW codes\\ASP-.NET\\OrderApp\\OrdersEntities\\OrdersEntities.csproj",
       "packagesPath": "C:\\Users\\mesho\\.nuget\\packages\\",
-      "outputPath": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\OrdersEntities\\obj\\",
+      "outputPath": "D:\\SW codes\\ASP-.NET\\OrderApp\\OrdersEntities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

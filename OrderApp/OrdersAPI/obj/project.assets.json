@@ -1615,6 +1615,61 @@
         "runtime": {
           "bin/placeholder/OrdersEntities.dll": {}
         }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "OrdersEntities": "1.0.0",
+          "RepositoryContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "RepositoryContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "OrdersEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RepositoryContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepositoryContracts.dll": {}
+        }
+      },
+      "ServiceContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "OrdersEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServiceContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceContracts.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "OrdersEntities": "1.0.0",
+          "Repositories": "1.0.0",
+          "ServiceContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -4731,13 +4786,37 @@
       "type": "project",
       "path": "../OrdersEntities/OrdersEntities.csproj",
       "msbuildProject": "../OrdersEntities/OrdersEntities.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "RepositoryContracts/1.0.0": {
+      "type": "project",
+      "path": "../RepositoryContracts/RepositoryContracts.csproj",
+      "msbuildProject": "../RepositoryContracts/RepositoryContracts.csproj"
+    },
+    "ServiceContracts/1.0.0": {
+      "type": "project",
+      "path": "../ServiceContracts/ServiceContracts.csproj",
+      "msbuildProject": "../ServiceContracts/ServiceContracts.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.9",
-      "OrdersEntities >= 1.0.0"
+      "OrdersEntities >= 1.0.0",
+      "Repositories >= 1.0.0",
+      "RepositoryContracts >= 1.0.0",
+      "ServiceContracts >= 1.0.0",
+      "Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4747,11 +4826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\OrdersAPI\\OrdersAPI.csproj",
+      "projectUniqueName": "D:\\SW codes\\ASP-.NET\\OrderApp\\OrdersAPI\\OrdersAPI.csproj",
       "projectName": "OrdersAPI",
-      "projectPath": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\OrdersAPI\\OrdersAPI.csproj",
+      "projectPath": "D:\\SW codes\\ASP-.NET\\OrderApp\\OrdersAPI\\OrdersAPI.csproj",
       "packagesPath": "C:\\Users\\mesho\\.nuget\\packages\\",
-      "outputPath": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\OrdersAPI\\obj\\",
+      "outputPath": "D:\\SW codes\\ASP-.NET\\OrderApp\\OrdersAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4772,8 +4851,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\SW codes\\ASP .NET CORE\\StocksApp\\OrdersEntities\\OrdersEntities.csproj": {
-              "projectPath": "D:\\SW codes\\ASP .NET CORE\\StocksApp\\OrdersEntities\\OrdersEntities.csproj"
+            "D:\\SW codes\\ASP-.NET\\OrderApp\\OrdersEntities\\OrdersEntities.csproj": {
+              "projectPath": "D:\\SW codes\\ASP-.NET\\OrderApp\\OrdersEntities\\OrdersEntities.csproj"
+            },
+            "D:\\SW codes\\ASP-.NET\\OrderApp\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\SW codes\\ASP-.NET\\OrderApp\\Repositories\\Repositories.csproj"
+            },
+            "D:\\SW codes\\ASP-.NET\\OrderApp\\RepositoryContracts\\RepositoryContracts.csproj": {
+              "projectPath": "D:\\SW codes\\ASP-.NET\\OrderApp\\RepositoryContracts\\RepositoryContracts.csproj"
+            },
+            "D:\\SW codes\\ASP-.NET\\OrderApp\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "D:\\SW codes\\ASP-.NET\\OrderApp\\ServiceContracts\\ServiceContracts.csproj"
+            },
+            "D:\\SW codes\\ASP-.NET\\OrderApp\\Services\\Services.csproj": {
+              "projectPath": "D:\\SW codes\\ASP-.NET\\OrderApp\\Services\\Services.csproj"
             }
           }
         }

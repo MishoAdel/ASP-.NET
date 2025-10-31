@@ -1,0 +1,15 @@
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\bin\Debug\net8.0\OrdersEntities.deps.json
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\bin\Debug\net8.0\OrdersEntities.runtimeconfig.json
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\bin\Debug\net8.0\OrdersEntities.dll
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\bin\Debug\net8.0\OrdersEntities.pdb
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\OrdersEntities.csproj.AssemblyReference.cache
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\OrdersEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\OrdersEntities.AssemblyInfoInputs.cache
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\OrdersEntities.AssemblyInfo.cs
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\OrdersEntities.csproj.CoreCompileInputs.cache
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\OrdersEntities.sourcelink.json
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\OrdersEntities.dll
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\refint\OrdersEntities.dll
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\OrdersEntities.pdb
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\OrdersEntities.genruntimeconfig.cache
+D:\SW codes\ASP-.NET\OrderApp\OrdersEntities\obj\Debug\net8.0\ref\OrdersEntities.dll

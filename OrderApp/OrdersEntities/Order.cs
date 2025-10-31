@@ -27,6 +27,8 @@ namespace OrdersEntities
         [Range(1, double.MaxValue, ErrorMessage = "Total amount must be positive")]
         [Column(TypeName = "decimal")]
         public decimal TotalAmount { get; set; }
+
+        
     }
 
 }
